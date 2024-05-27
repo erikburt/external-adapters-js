@@ -2327,7 +2327,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2344,7 +2344,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2360,7 +2360,7 @@ __metadata:
     "@types/ws": 8.5.10
     ethers: ^5.4.6
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
     ws: ^7.4.6
   languageName: unknown
   linkType: soft
@@ -2379,7 +2379,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2397,7 +2397,7 @@ __metadata:
     mathjs: ^11.5.1
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2410,7 +2410,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2423,7 +2423,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2437,7 +2437,7 @@ __metadata:
     "@types/node": 16.18.96
     ethers: ^5.5.1
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2454,7 +2454,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2472,7 +2472,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2488,7 +2488,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2505,7 +2505,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2521,7 +2521,7 @@ __metadata:
     ethers: 5.4.7
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2539,7 +2539,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2556,7 +2556,7 @@ __metadata:
     ethers: 5.4.7
     luxon: ^1.28.1
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2569,7 +2569,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2584,7 +2584,7 @@ __metadata:
     fastify: ^3.29.4
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2601,7 +2601,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2617,7 +2617,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2633,7 +2633,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2650,7 +2650,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2666,7 +2666,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2683,7 +2683,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2697,7 +2697,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2711,7 +2711,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2729,7 +2729,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2744,7 +2744,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2760,7 +2760,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2777,7 +2777,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2793,7 +2793,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2815,7 +2815,7 @@ __metadata:
     ethers: ^5.5.1
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2832,7 +2832,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2848,7 +2848,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2865,7 +2865,7 @@ __metadata:
     ethers: ^5.4.6
     merkletreejs: ^0.2.18
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2882,7 +2882,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2897,7 +2897,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2911,7 +2911,7 @@ __metadata:
     "@types/node": 16.18.96
     ethers: 5.4.7
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2925,7 +2925,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2939,7 +2939,7 @@ __metadata:
     axios: 1.6.8
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2955,7 +2955,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2971,7 +2971,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -2986,7 +2986,7 @@ __metadata:
     crypto-js: 4.2.0
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3002,7 +3002,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3017,7 +3017,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3033,7 +3033,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3046,7 +3046,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3062,7 +3062,7 @@ __metadata:
     ethers: ^5.4.6
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3077,7 +3077,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3093,7 +3093,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3111,7 +3111,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3139,7 +3139,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3156,7 +3156,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3175,7 +3175,7 @@ __metadata:
     moment: ^2.29.4
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3193,7 +3193,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3208,7 +3208,7 @@ __metadata:
     "@types/node": 16.18.96
     ethers: ^5.4.6
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3225,7 +3225,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3241,7 +3241,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3257,7 +3257,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3273,7 +3273,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3289,7 +3289,7 @@ __metadata:
     ethers: 5.4.7
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3307,7 +3307,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3323,7 +3323,7 @@ __metadata:
     axios: 1.6.8
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3340,7 +3340,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3355,7 +3355,7 @@ __metadata:
     "@types/node": 16.18.96
     ethers: ^5.4.6
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3371,7 +3371,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3387,7 +3387,7 @@ __metadata:
     ethers: ^5.4.6
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3404,7 +3404,7 @@ __metadata:
     nock: ^13.2.4
     supertest: ^6.2.2
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3421,7 +3421,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3435,7 +3435,7 @@ __metadata:
     "@types/node": 16.18.96
     dwolla-v2: ^3.2.0
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3450,7 +3450,7 @@ __metadata:
     "@types/node": 16.18.96
     ethers: ^5.4.6
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3465,7 +3465,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3482,7 +3482,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3502,7 +3502,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
     web3: ^1.3.6
   languageName: unknown
   linkType: soft
@@ -3519,7 +3519,7 @@ __metadata:
     ethers: 5.4.7
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3565,7 +3565,7 @@ __metadata:
     rxjs: ^6.6.3
     sinon: 14.0.2
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
     uuid: ^8.3.0
     ws: ^7.4.4
   languageName: unknown
@@ -3581,7 +3581,7 @@ __metadata:
     "@types/object-path": 0.11.4
     object-path: ^0.11.5
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3595,7 +3595,7 @@ __metadata:
     "@types/node": 16.18.96
     ethers: ^4.0.48
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3632,7 +3632,7 @@ __metadata:
     swagger-jsdoc: 6.1.0
     ts-jest: 27.1.5
     tslib: 2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
     yaml: 2.2.2
   languageName: unknown
   linkType: soft
@@ -3650,7 +3650,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3665,7 +3665,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3681,7 +3681,7 @@ __metadata:
     axios: 1.6.8
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3698,7 +3698,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3715,7 +3715,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3731,7 +3731,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3749,7 +3749,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3764,7 +3764,7 @@ __metadata:
     ethers: 5.7.2
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3780,7 +3780,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3796,7 +3796,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3812,7 +3812,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3828,7 +3828,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3845,7 +3845,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3861,7 +3861,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3913,7 +3913,7 @@ __metadata:
     prettier: 2.8.8
     source-map-support: 0.5.21
     ts-node: 10.9.2
-    typescript: 5.0.4
+    typescript: 5.4.5
     yo: 4.3.1
   languageName: unknown
   linkType: soft
@@ -3930,7 +3930,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3945,7 +3945,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3961,7 +3961,7 @@ __metadata:
     "@types/uuid": 8.3.4
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
     uuid: ^8.3.0
   languageName: unknown
   linkType: soft
@@ -3977,7 +3977,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -3993,7 +3993,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4009,7 +4009,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4022,7 +4022,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4038,7 +4038,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4054,7 +4054,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4068,7 +4068,7 @@ __metadata:
     ethers: 5.7.2
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4087,7 +4087,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4103,7 +4103,7 @@ __metadata:
     axios: 1.6.8
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4116,7 +4116,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4132,7 +4132,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4145,7 +4145,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4160,7 +4160,7 @@ __metadata:
     ethers: ^5.4.6
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4174,7 +4174,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4191,7 +4191,7 @@ __metadata:
     convert-units: ^2.3.4
     geojson-validation: ^1.0.2
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4204,7 +4204,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4217,7 +4217,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4235,7 +4235,7 @@ __metadata:
     crypto: 1.0.1
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4255,7 +4255,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4268,7 +4268,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4287,7 +4287,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4304,7 +4304,7 @@ __metadata:
     mock-socket: 9.3.1
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4317,7 +4317,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4335,7 +4335,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4351,7 +4351,7 @@ __metadata:
     axios: 1.6.8
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4364,7 +4364,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4385,7 +4385,7 @@ __metadata:
     nock: 13.5.4
     tslib: ^2.1.0
     type-fest: 2.19.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4401,7 +4401,7 @@ __metadata:
     nock: 13.5.4
     supertest: ^6.2.2
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4417,7 +4417,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4430,7 +4430,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4449,7 +4449,7 @@ __metadata:
     starknet: 6.0.0
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4465,7 +4465,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4482,7 +4482,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4503,7 +4503,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4516,7 +4516,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4529,7 +4529,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4543,7 +4543,7 @@ __metadata:
     ethers: ^5.4.7
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4560,7 +4560,7 @@ __metadata:
     "@types/node": 16.18.96
     market-closure: ^0.1.2
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4576,7 +4576,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4592,7 +4592,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4605,7 +4605,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4621,7 +4621,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4637,7 +4637,7 @@ __metadata:
     nock: 13.5.4
     supertest: ^6.2.2
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4654,7 +4654,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4667,7 +4667,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4683,7 +4683,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4698,7 +4698,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4714,7 +4714,7 @@ __metadata:
     mock-socket: 9.3.1
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4733,7 +4733,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4749,7 +4749,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4762,7 +4762,7 @@ __metadata:
     axios: 1.6.8
     decimal.js: ^10.3.1
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4772,7 +4772,7 @@ __metadata:
   dependencies:
     axios: 1.6.8
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4788,7 +4788,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4804,7 +4804,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4817,7 +4817,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4833,7 +4833,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4850,7 +4850,7 @@ __metadata:
     axios: 1.6.8
     sinon: 12.0.1
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4866,7 +4866,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4881,7 +4881,7 @@ __metadata:
     "@types/node": 16.18.96
     "@types/paypal__payouts-sdk": 1.0.6
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4897,7 +4897,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4911,7 +4911,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4924,7 +4924,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4938,7 +4938,7 @@ __metadata:
     ethers: ^5.5.1
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4952,7 +4952,7 @@ __metadata:
     decimal.js: ^10.3.1
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -4999,7 +4999,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5030,7 +5030,7 @@ __metadata:
     object-path: ^0.11.5
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5043,7 +5043,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5064,7 +5064,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5083,7 +5083,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5099,7 +5099,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5117,7 +5117,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5135,7 +5135,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5153,7 +5153,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5171,7 +5171,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5187,7 +5187,7 @@ __metadata:
     "@types/supertest": 2.0.16
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5204,7 +5204,7 @@ __metadata:
     nock: 13.5.4
     sinon: 12.0.1
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5223,7 +5223,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5237,7 +5237,7 @@ __metadata:
     ethers: 5.5.4
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5253,7 +5253,7 @@ __metadata:
     ethers: 5.5.4
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5270,7 +5270,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5286,7 +5286,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5303,7 +5303,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5323,7 +5323,7 @@ __metadata:
     synthetix: 2.45.3
     tslib: ^2.3.1
     type-fest: ^2.0.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5339,7 +5339,7 @@ __metadata:
     ethers: ^5.6.5
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5355,7 +5355,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5372,7 +5372,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5387,7 +5387,7 @@ __metadata:
     "@types/jest": 27.5.2
     "@types/node": 16.18.96
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5400,7 +5400,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5416,7 +5416,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5431,7 +5431,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5461,7 +5461,7 @@ __metadata:
     ethers: ^5.4.6
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5477,7 +5477,7 @@ __metadata:
     ethers: ^5.4.6
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5492,7 +5492,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     decimal.js: ^10.3.1
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5507,7 +5507,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5522,7 +5522,7 @@ __metadata:
     "@types/sinonjs__fake-timers": 8.1.5
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5535,7 +5535,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5549,7 +5549,7 @@ __metadata:
     ethers: 5.7.2
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5565,7 +5565,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5581,7 +5581,7 @@ __metadata:
     "@types/ws": 8.5.10
     nock: 13.5.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5597,7 +5597,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5615,7 +5615,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5631,7 +5631,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.1.0
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5647,7 +5647,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5661,7 +5661,7 @@ __metadata:
     "@types/node": 16.18.96
     ethers: ^5.4.6
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5675,7 +5675,7 @@ __metadata:
     ethers: ^5.4.6
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5689,7 +5689,7 @@ __metadata:
     ethers: ^5.4.6
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5702,7 +5702,7 @@ __metadata:
     "@types/node": 16.18.96
     nock: 13.5.4
     tslib: 2.4.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5718,7 +5718,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5734,7 +5734,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5750,7 +5750,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -5768,7 +5768,7 @@ __metadata:
     nock: 13.5.4
     supertest: 6.2.4
     tslib: ^2.3.1
-    typescript: 5.0.4
+    typescript: 5.4.5
   languageName: unknown
   linkType: soft
 
@@ -23128,7 +23128,7 @@ __metadata:
     dotenv: 16.0.3
     os-browserify: 0.3.0
     path-browserify: 1.0.1
-    typescript: 5.0.4
+    typescript: 5.4.5
     webpack: 5.91.0
     webpack-cli: 4.10.0
   languageName: unknown
@@ -31905,13 +31905,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:5.0.4":
-  version: 5.0.4
-  resolution: "typescript@npm:5.0.4"
+"typescript@npm:5.4.5":
+  version: 5.4.5
+  resolution: "typescript@npm:5.4.5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 82b94da3f4604a8946da585f7d6c3025fff8410779e5bde2855ab130d05e4fd08938b9e593b6ebed165bda6ad9292b230984f10952cf82f0a0ca07bbeaa08172
+  checksum: 53c879c6fa1e3bcb194b274d4501ba1985894b2c2692fa079db03c5a5a7140587a1e04e1ba03184605d35f439b40192d9e138eb3279ca8eee313c081c8bcd9b0
   languageName: node
   linkType: hard
 
@@ -31935,13 +31935,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@5.0.4#~builtin<compat/typescript>":
-  version: 5.0.4
-  resolution: "typescript@patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=b5f058"
+"typescript@patch:typescript@5.4.5#~builtin<compat/typescript>":
+  version: 5.4.5
+  resolution: "typescript@patch:typescript@npm%3A5.4.5#~builtin<compat/typescript>::version=5.4.5&hash=77c9e2"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: d26b6ba97b6d163c55dbdffd9bbb4c211667ebebc743accfeb2c8c0154aace7afd097b51165a72a5bad2cf65a4612259344ff60f8e642362aa1695c760d303ac
+  checksum: 2373c693f3b328f3b2387c3efafe6d257b057a142f9a79291854b14ff4d5367d3d730810aee981726b677ae0fd8329b23309da3b6aaab8263dbdccf1da07a3ba
   languageName: node
   linkType: hard
 

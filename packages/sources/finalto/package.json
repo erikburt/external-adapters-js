@@ -34,7 +34,7 @@
     "@types/sinonjs__fake-timers": "8.1.5",
     "@types/uuid": "8.3.4",
     "nock": "13.5.4",
-    "typescript": "5.0.4"
+    "typescript": "5.4.5"
   },
   "dependencies": {
     "@chainlink/external-adapter-framework": "0.33.8",
