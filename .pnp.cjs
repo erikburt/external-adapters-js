@@ -1073,7 +1073,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/preset-typescript", "virtual:532fdf4c5364453a90c37bb5287483fa331782ecfc41fc8a238ae4c5b9ecbfa540f6b4c584d3930549b0f5a0f6dd6c0d866dbdf0879570565599d51c3b649109#npm:7.24.1"],\
             ["@chainlink/external-adapter-framework", "npm:0.33.8"],\
             ["@changesets/changelog-github", "npm:0.5.0"],\
-            ["@changesets/cli", "npm:2.27.1"],\
+            ["@changesets/cli", "npm:2.27.3"],\
             ["@types/babel__core", "npm:7.20.5"],\
             ["@types/babel__preset-env", "npm:7.9.6"],\
             ["@types/eslint", "npm:8.37.0"],\
@@ -6683,7 +6683,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/preset-typescript", "virtual:532fdf4c5364453a90c37bb5287483fa331782ecfc41fc8a238ae4c5b9ecbfa540f6b4c584d3930549b0f5a0f6dd6c0d866dbdf0879570565599d51c3b649109#npm:7.24.1"],\
             ["@chainlink/external-adapter-framework", "npm:0.33.8"],\
             ["@changesets/changelog-github", "npm:0.5.0"],\
-            ["@changesets/cli", "npm:2.27.1"],\
+            ["@changesets/cli", "npm:2.27.3"],\
             ["@types/babel__core", "npm:7.20.5"],\
             ["@types/babel__preset-env", "npm:7.9.6"],\
             ["@types/eslint", "npm:8.37.0"],\
@@ -8814,10 +8814,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@changesets/apply-release-plan", [\
-        ["npm:7.0.0", {\
-          "packageLocation": "./.yarn/cache/@changesets-apply-release-plan-npm-7.0.0-13a5369f95-ad83f89a3d.zip/node_modules/@changesets/apply-release-plan/",\
+        ["npm:7.0.1", {\
+          "packageLocation": "./.yarn/cache/@changesets-apply-release-plan-npm-7.0.1-a6d044f32c-44a2686d3d.zip/node_modules/@changesets/apply-release-plan/",\
           "packageDependencies": [\
-            ["@changesets/apply-release-plan", "npm:7.0.0"],\
+            ["@changesets/apply-release-plan", "npm:7.0.1"],\
             ["@babel/runtime", "npm:7.22.11"],\
             ["@changesets/config", "npm:3.0.0"],\
             ["@changesets/get-version-range-type", "npm:0.4.0"],\
@@ -8873,12 +8873,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@changesets/cli", [\
-        ["npm:2.27.1", {\
-          "packageLocation": "./.yarn/cache/@changesets-cli-npm-2.27.1-2cfd25f1c6-0d030dec7e.zip/node_modules/@changesets/cli/",\
+        ["npm:2.27.3", {\
+          "packageLocation": "./.yarn/cache/@changesets-cli-npm-2.27.3-77724762d1-e3b0bb3a12.zip/node_modules/@changesets/cli/",\
           "packageDependencies": [\
-            ["@changesets/cli", "npm:2.27.1"],\
+            ["@changesets/cli", "npm:2.27.3"],\
             ["@babel/runtime", "npm:7.22.11"],\
-            ["@changesets/apply-release-plan", "npm:7.0.0"],\
+            ["@changesets/apply-release-plan", "npm:7.0.1"],\
             ["@changesets/assemble-release-plan", "npm:6.0.0"],\
             ["@changesets/changelog-git", "npm:0.2.0"],\
             ["@changesets/config", "npm:3.0.0"],\
@@ -8890,7 +8890,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@changesets/pre", "npm:2.0.0"],\
             ["@changesets/read", "npm:0.6.0"],\
             ["@changesets/types", "npm:6.0.0"],\
-            ["@changesets/write", "npm:0.3.0"],\
+            ["@changesets/write", "npm:0.3.1"],\
             ["@manypkg/get-packages", "npm:1.1.3"],\
             ["@types/semver", "npm:7.5.1"],\
             ["ansi-colors", "npm:4.1.3"],\
@@ -9074,10 +9074,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@changesets/write", [\
-        ["npm:0.3.0", {\
-          "packageLocation": "./.yarn/cache/@changesets-write-npm-0.3.0-6d458b11e0-37588eb3ef.zip/node_modules/@changesets/write/",\
+        ["npm:0.3.1", {\
+          "packageLocation": "./.yarn/cache/@changesets-write-npm-0.3.1-8daee7e46a-6df0447e05.zip/node_modules/@changesets/write/",\
           "packageDependencies": [\
-            ["@changesets/write", "npm:0.3.0"],\
+            ["@changesets/write", "npm:0.3.1"],\
             ["@babel/runtime", "npm:7.22.11"],\
             ["@changesets/types", "npm:6.0.0"],\
             ["fs-extra", "npm:7.0.1"],\
